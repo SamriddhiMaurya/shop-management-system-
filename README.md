@@ -1,0 +1,1 @@
+# shop-management-system- By using this software a shop owner can store and sell his/her product from the shop  . The software will handle the procedure needs to store records of sale and store of products .
